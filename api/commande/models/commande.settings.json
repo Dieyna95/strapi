@@ -1,0 +1,20 @@
+{
+  "connection": "default",
+  "collectionName": "commandes",
+  "info": {
+    "name": "commande"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "plat": {
+      "model": "plat"
+    },
+    "user": {
+      "plugin": "users-permissions",
+      "model": "user"
+    }
+  }
+}
