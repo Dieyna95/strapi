@@ -1,4 +1,6 @@
 # Strapi application
+Dieynaba Ndour Master 2 Télécoms Réseaux
+
 
 Ajouter une page à notre projet qui va permettre à l’administrateur d’ajouter un plat (page créée depuis Ionic cli avec la commande 'ionic generate' )
 
